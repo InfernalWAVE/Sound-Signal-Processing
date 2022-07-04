@@ -1,0 +1,16 @@
+{
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Operator Mono",
+  "editor.foldingImportsByDefault": true,
+  "editor.smoothScrolling": true,
+  "editor.stickyTabStops": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "workbench.list.smoothScrolling": true,
+  "search.smartCase": true,
+  "scm.alwaysShowRepositories": true,
+  "scm.alwaysShowActions": true,
+  "terminal.integrated.automationProfile.osx": {
+    "path": "/Users/ryan/opt/anaconda3/envs/audio_1"
+  }
+}
