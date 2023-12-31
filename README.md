@@ -1,4 +1,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InfernalWAVE/dsProject.git/main)
-# dsProject
-data_science
+# Sound Processing Study
+Study in sound segmentation and feature extraction using python
 run in browser: https://mybinder.org/v2/gh/InfernalWAVE/dsProject.git/main
